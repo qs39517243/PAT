@@ -1,2 +1,2 @@
 # PAT
-about PAT conpetition
+about PAT competition
